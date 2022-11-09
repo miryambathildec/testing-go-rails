@@ -38,3 +38,8 @@
 !/app/assets/builds/.keep
 
 /node_modules
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/nps.iml
+/.idea/dataSources.xml
